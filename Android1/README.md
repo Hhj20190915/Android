@@ -1,0 +1,1 @@
+老师，我想说一下，因为typora显示不了github上的图片，所以截图放在Androidimg里。
