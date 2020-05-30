@@ -106,7 +106,7 @@ private static final String[] PROJECTION = new String[] {
 
 结果显示：
 
-![2](NotePad/image/2.png)
+![2](https://github.com/Hhj20190915/Android/blob/master/NotePad/image/2.png)
 
 虽然显示了但是并不是日常的时间格式。
 
@@ -152,7 +152,7 @@ private final void updateNote(String text, String title) {
 
 最终结果：
 
-![3](NotePad/image/3.png)
+![3](https://github.com/Hhj20190915/Android/blob/master/NotePad/image/3.png)
 
 ## 二、添加笔记查询功能（根据标题查询）
 
@@ -314,6 +314,6 @@ public class NoteSearch extends ListActivity implements SearchView.OnQueryTextLi
 
 结果：
 
-![4](NotePad/image/4.png)
+![4](https://github.com/Hhj20190915/Android/blob/master/NotePad/image/4.png)
 
-![5](NotePad/image/5.png)
+![5](https://github.com/Hhj20190915/Android/blob/master/NotePad/image/5.png)
